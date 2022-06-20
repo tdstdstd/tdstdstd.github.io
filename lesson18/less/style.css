@@ -1,0 +1,30 @@
+
+body  {
+  background-image: url(../bg.png);
+  height: 100vh;  
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+h1 {
+  margin-top: 8rem;
+  font-size: 36px;
+  line-height: 1.5;
+  color: #0bbaf0;
+}
+p {
+  font-size: 24px;
+}
+
+.wrap-block {
+  margin-top: 8.3rem;
+}
+.panel-color {
+  background-color: #0bbaf0;
+}
+.text-size {
+  font-size: 22px;
+}
+.panel-default>.panel-heading {
+  background-color: #0bbaf0;
+  border-radius: 1px;
+}
